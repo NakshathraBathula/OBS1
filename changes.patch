@@ -1,0 +1,20 @@
+From 4eab0601b794e3d2993bfaa6bd0696d78c618b8e Mon Sep 17 00:00:00 2001
+From: nakshathrabathula <nakshathrabathula2006@gmail.com>
+Date: Sat, 20 Sep 2025 11:32:50 +0530
+Subject: [PATCH] changed Loanservice file
+
+---
+ LoanService.java | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 LoanService.java
+
+diff --git a/LoanService.java b/LoanService.java
+new file mode 100644
+index 0000000..d3e8433
+--- /dev/null
++++ b/LoanService.java
+@@ -0,0 +1 @@
++hello hello kmit
+-- 
+2.47.1.windows.1
+
